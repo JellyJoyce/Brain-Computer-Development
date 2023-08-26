@@ -16,6 +16,9 @@ An innovative Human-Computer Interaction (HCI) approach leveraging Electrooculog
 
 EOG Tetris provides an innovative HCI interface that enables users to play the classic Tetris game using their eye movements. This technology has significant implications, especially for users with disabilities, providing them an accessible means to engage with technology.
 
+## Overview
+![image](https://github.com/JellyJoyce/Brain-Computer-Development/blob/main/img/Overview%20figure.png)
+
 ## Features
 
 - **Signal Processing:** Efficient processing of EOG signals to detect eye movements accurately.
@@ -33,12 +36,13 @@ EOG Tetris provides an innovative HCI interface that enables users to play the c
 ## Usage
 
 1. Connect your EOG hardware to your system.
-2. Run the game script:
+![image](https://github.com/JellyJoyce/Brain-Computer-Development/blob/main/img/Placement%20diagram.png)
+3. Run the game script:
    ```bash
    python tetris_game.py
    ```
-3. Adjust your electrode placement as needed (refer to the provided guide on placements).
-4. Play Tetris using your eye movements!
+4. Adjust your electrode placement as needed (refer to the provided guide on placements).
+5. Play Tetris using your eye movements!
 
 ## Results
 
